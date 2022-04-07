@@ -1,0 +1,4 @@
+repository "dialouge system@Ouiki_TEMP@cloud"
+  path "/"
+    br "/main"
+    co "/main"
